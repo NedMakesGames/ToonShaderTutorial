@@ -1,8 +1,8 @@
-Copyright (c) 2020, Timothy Ned Atton.
+Copyright (c) 2020, NedMakesGames
 All rights reserved.
 
 Contact me at mailto://nedmakesgames@gmail.com
-This project was featured in my Toon Shader Tutorial video: https://youtu.be/RC91uxRTId8 on my channel https://youtube.com/c/nedmakesgames
+This project was featured in my Toon Shader Tutorial video: https://youtu.be/RC91uxRTId8 and https://youtu.be/whmPkDp3dqo on my channel https://youtube.com/c/nedmakesgames
 
 All code is distributed under the GNU GPLv3. See license.txt or https://www.gnu.org/licenses/gpl.txt
 
